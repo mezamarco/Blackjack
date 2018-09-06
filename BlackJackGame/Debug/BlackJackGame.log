@@ -1,0 +1,4 @@
+﻿  BlackJackGame.cpp
+c:\users\marco meza\source\repos\blackjackgame\blackjackgame\blackjackgame.cpp(725): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marco meza\source\repos\blackjackgame\blackjackgame\blackjackgame.cpp(712): warning C4715: 'BlackJack::playersTurn': not all control paths return a value
+  BlackJackGame.vcxproj -> C:\Users\Marco Meza\source\repos\BlackJackGame\Debug\BlackJackGame.exe
